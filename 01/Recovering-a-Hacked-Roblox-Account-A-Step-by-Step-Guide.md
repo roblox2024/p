@@ -2,7 +2,7 @@
 
 ## Immediate Action: Disconnect and Report
 If you suspect your Roblox account has been hacked, act swiftly. Disconnect from any active sessions to minimize potential damage, and refrain from engaging with the hacker. Your immediate response is crucial in preventing further compromise.
-![ecover-roblox-hacked-account](https://10scopes.com/wp-content/uploads/2021/05/recover-roblox-hacked-account-1024x576.jpg)
+![recover-roblox-hacked-account](https://10scopes.com/wp-content/uploads/2021/05/recover-roblox-hacked-account-1024x576.jpg)
 ## Provide Relevant Information: Fill Out a Support Ticket
 To initiate the recovery process, submit a support ticket to Roblox. Furnish as much accurate information as possible, including your previous email, phone number, or any details that can aid in verifying your ownership. This step lays the groundwork for the account recovery process.
 
