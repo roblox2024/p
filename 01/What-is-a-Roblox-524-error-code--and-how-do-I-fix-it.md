@@ -1,4 +1,6 @@
 # What is a Roblox 524 error code, and how do I fix it?
+![Roblox 524 error code](https://untolddetails.com/wp-content/uploads/2021/10/roblox-error-code-524.jpg)
+
 Error code 524 from past experiences is an error that usually occurs when you can't join any servers even if it was a new server or an existing one. As for why this happens I have seen it most occur when ROBLOX's servers are acting up or being slower than usual. Basically it just means your internet is a bit slow don't worry the error will resolve in a couple minutes after it occurs.
 
 -----
