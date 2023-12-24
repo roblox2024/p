@@ -6,7 +6,6 @@ Error code 524 from past experiences is an error that usually occurs when you ca
 
 -----
 
-
 When Roblox displays Error Code 524, it simply means that there is a communication problem between your device and the Roblox server, which might cause connectivity problems and interfere with gameplay. To fix error Code 524 in ROBLOX you have to follow these steps:
 
 * The first step is to Verify the Roblox server status by visiting the **“Roblox Status” ** website. If the server is showing some issues, then be patient and wait for it to be resolved.
